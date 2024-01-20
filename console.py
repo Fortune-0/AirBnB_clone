@@ -10,15 +10,15 @@ import cmd
 class HBNBCommand(cmd.Cmd):
  import cmd
 from datetime import datetime
-from models.base_model import BaseModel
-from models import classes, storage
+from model.base_model import BaseModel
+from model import classes, storage
 import re
-from models.user import User
-from models.state import State
-from models.city import City
-from models.amenity import Amenity
-from models.place import Place
-from models.review import Review
+from model.user import User
+from model.state import State
+from model.city import City
+from model.amenity import Amenity
+from model.place import Place
+from model.review import Review
 import model
 
 class HBNBCommand(cmd.Cmd):
