@@ -9,7 +9,7 @@ from models.base_model import BaseModel
 
 class User(BaseModel):
     """User class that inherits from BaseModel.
-    this creates the profile for user"""
+    This creates the profile for user"""
     email: str = ""
     password: str = ""
     first_name: str = ""
