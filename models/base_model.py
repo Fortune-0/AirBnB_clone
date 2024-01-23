@@ -6,7 +6,7 @@ import models
 
 
 class BaseModel:
-    """BaseModel class for creating and managing instances.
+    """BaseModel class for creating and managing instances
     """
     TIME_FORMAT = "%Y-%m-%dT%H:%M:%S.%f"
 

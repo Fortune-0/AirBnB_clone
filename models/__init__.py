@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-INitalize package
+Initalize package
 to create a unique FileStorage instance
 for the application
 """

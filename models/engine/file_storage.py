@@ -2,7 +2,7 @@
 
 """File Storage class
 for serialization into a JSON file and
-deserialization of JSON file
+deserialization, of JSON file
 into an instances.
 """
 
